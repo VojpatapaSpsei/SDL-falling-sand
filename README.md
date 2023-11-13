@@ -10,5 +10,5 @@ This is a "game" made with C, C++ and SDL2. you can create sand or destroy sand.
 
 ## technical description
 - the quality of code and efficiency of the program were not taken into account when making it.
-- to run .exe file, you need to have an image directory, .ddl files and .exe file itself in the same directory.
+- to run .exe file, you need to have an image directory, .dll files and .exe file itself in the same directory.
 - if you want to try editing it and run through, for example, Clion or Codeblocks, you probably won't succeed, because SDL2 setup is painful, but good luck.
